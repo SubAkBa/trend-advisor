@@ -27,6 +27,7 @@
 - file_preprocessing.R : R을 이용하여 크롤링한 기사 데이터에 대해 전처리 하고 분포를 확인하기 위한 코드 파일  
 - kyunghyang_article_crawling.R : 경향신문기사 데이터를 크롤링 하기 위한 코드 파일  
 - naver_lifearticle_crawling.R : 네이버 생활 카테고리 기사를 크롤링 하기 위한 코드 파일  
+- extract_item_keyword.R : 아이템 키워드 추출을 위한 함수 코드 파일
   
 ## 5. 어려웠던 점
 
